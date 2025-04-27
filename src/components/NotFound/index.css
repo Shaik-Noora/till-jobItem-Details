@@ -1,0 +1,16 @@
+.txt {
+  color: #ffffff;
+  font-family: 'roboto';
+  font-size: 30px !important;
+}
+
+.txt1 {
+  color:  #7e858e;
+  font-family: 'roboto';
+  font-size: 20px !important;
+}
+
+.cont{
+    background-color: #121212;
+    height: 100vh;
+}

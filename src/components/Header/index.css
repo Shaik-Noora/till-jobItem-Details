@@ -1,0 +1,27 @@
+.btn {
+  background-color: #4f46e5;
+  color: #ffffff;
+  border-radius: 6px;
+  border-width: 0px;
+  padding: 10px;
+}
+.navv {
+  background-color: #272727;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 2px;
+}
+.nav-text {
+  color: #ffffff;
+  text-decoration: none;
+  font-family: 'roboto';
+  padding: 20px;
+}
+
+.ull{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+}

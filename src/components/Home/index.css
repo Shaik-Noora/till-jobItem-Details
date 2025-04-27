@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #121212;
+  height: 100vh;
+  background-size: cover;
+  padding: 5px;
+}
+
+.txt {
+  color: #ffffff;
+  font-family: 'roboto';
+  font-size: 30px !important;
+}
+
+.jobsButton {
+  background-color: #4f46e5;
+  color: #ffffff;
+  border-radius: 6px;
+  border-width: 0px;
+  padding: 20px;
+}
+.home-img {
+  height: 560px;
+  width: 600px;
+}
